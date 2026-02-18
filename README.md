@@ -30,27 +30,27 @@
 <h2>🧱 Project Architecture</h2>
 <div class="diagram">
 Exercise Data + Calories Data
-   ↓
+   ➞
 Data Merging
-   ↓
+   ➞
 Data Cleaning
-   ↓
+   ➞
 Train-Test Split
-   ↓
+   ➞
 Outlier Detection & Treatment
-   ↓
+   ➞
 Categorical Encoding
-   ↓
+   ➞
 Feature Scaling
-   ↓
+   ➞
 Model Training
-   ↓
+   ➞
 Model Evaluation
-   ↓
+   ➞
 Best Model Selection
-   ↓
+   ➞
 Pickle File
-   ↓
+   ➞
 Web Deployment
 </div>
 
